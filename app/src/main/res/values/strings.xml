@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ShangzBurgers</string>
+
+    <string name="c1">Shangz BBQ Suculento</string>
+    <string name="c2">Doug Delícia</string>
+    <string name="c3">Suculencia Picante</string>
+    <string name="c4">Suculencia Absurda</string>
+    <string name="c5">Shangz Jr</string>
+    <string name="c6">Suculencia de Carne</string>
+    <string name="c7">Shang Supreme</string>
+    <string name="c8">Junior Cheese</string>
+    <string name="c9">Podrão Suculento</string>
+    <string name="c10">Shangz Cheese</string>
+
+    <string name="sin01">Um hambúrguer de 250g de carne bovina defumada, com queijo cheddar, bacon crocante, cebolas crocantes e um delicioso molho barbecue. Tudo isso em um pão de milho tostado.</string>
+    <string name="sin02">Um hambúrguer suculento de 180g de carne bovina, coberto com queijo cheddar derretido, bacon crocante, alface, tomate e cebola roxa, servido em um pão de brioche tostado. Acompanhado de molho especial da casa.</string>
+    <string name="sin03">Um hambúrguer de 180g de carne bovina, coberto com queijo pepper jack, jalapeños, alface, cebola roxa, tomate e um molho picante especial, servido em um pão de brioche.</string>
+    <string name="sin04">Um hambúrguer artesanal de carne bovina, queijo cheddar derretido, bacon crocante, alface fresquinha, tomate suculento, cebola roxa caramelizada, molho especial, servido em um pão brioche macioz e levemente tostado.</string>
+    <string name="sin05">Ideal para os pequenos ou para quem prefere algo mais leve. Pão de leite, 100g de carne bovina, queijo prato, alface americana, tomate e ketchup artesanal.</string>
+    <string name="sin06">Um hambúrguer robusto e irresistível. Pão australiano, 250g de carne bovina, queijo suíço, cogumelos salteados, cebola caramelizada, picles de pepino e molho barbecue.</string>
+    <string name="sin07">Dois hambúrgueres de carne bovina, bacon crocante, queijo suíço, picles, cebola caramelizada e molho barbecue, tudo em um pão de brioche dourado.</string>
+    <string name="sin08">Hambúrguer de carne bovina, queijo cheddar, ketchup e maionese, servido em um pão de hambúrguer fofinho, ideal para as crianças.</string>
+    <string name="sin09">Carne moída temperada e grelhada, queijo cheddar derretido, fatias de bacon crocante, presunto, calabresa e uma camada de ovo frito com a gema mole, alface fresca, tomate suculento, cebola caramelizada, uma dose extra de maionese de alho da casa, servido em um pão francês crocante por fora e macio por dentro.</string>
+    <string name="sin10">Duplo hambúrguer de carne bovina com duas fatias de queijo cheddar, alface crocante, tomate, cebola roxa e molho de mostarda e mel. Servido em um pão brioche macio.</string>
+
+    <integer name="val1">17</integer>
+    <integer name="val2">19</integer>
+    <integer name="val3">18</integer>
+    <integer name="val4">19</integer>
+    <integer name="val5">15</integer>
+    <integer name="val6">20</integer>
+    <integer name="val7">21</integer>
+    <integer name="val8">16</integer>
+    <integer name="val9">19</integer>
+    <integer name="val10">17</integer>
+
+    <integer name="coca1">8</integer>
+    <integer name="coca2">12</integer>
+    <integer name="coca3">16</integer>
+
+    <integer name="batata1">6</integer>
+    <integer name="batata2">9</integer>
+    <integer name="batata3">12</integer>
+</resources>
